@@ -1,0 +1,14 @@
+Need to download/install:
+
+Virtual MIDI driver:
+loopMIDI - https://www.tobias-erichsen.de/software/loopmidi.html
+
+
+Ableton Packs:
+Designer drums?
+Digicussion
+Samplificiation
+Granulator by Monolake (Max4Live Device)
+
+Samples:
+https://vespers.ca/vault/granular-synthesis-bass-layers-with-foley-sounds-free-sample-pack-download/
